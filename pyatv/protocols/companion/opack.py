@@ -15,7 +15,7 @@ from uuid import UUID
 class UID(NamedTuple):
     """Type for UID encoded data.
 
-    Either 1, 2, 3 or 4 bytes (bit endian).
+    Either 1, 2, 3 or 4 bytes (big endian).
     """
 
     value: int
