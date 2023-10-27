@@ -99,7 +99,7 @@ Here are some other possible sources of problems:
 - If you can see your Apple TV on your iPhone, you can try to install an app
   suitable for Bonjour discovery. Just search for *bonjour* in the App store
   (there might be alternatives for Android as well) and lool for your device.
-  If it's not found then pyatv will likely not fins it either.
+  If it's not found then pyatv will likely not find it either.
 - Firewalls might block the necessary traffic for Bonjour. Make sure the
   traffic is allowed or disable it when scanning.
 - We have seen that switching the Apple TV from WiFi to cable solves the problem
